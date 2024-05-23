@@ -1,2 +1,4 @@
 be_portfolio/.env
 .env
+__pycache__/
+*.py[cod]
